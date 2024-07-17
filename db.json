@@ -1,23 +1,11 @@
 
-
-{"companies": [
+{
+  "companies": [
     {
       "id": "1",
       "name": "Coca-Cola",
       "logo": "https://images.pexels.com/photos/9973155/pexels-photo-9973155.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "description": "Coca-Cola is a multinational beverage corporation.",
-      "images": [
-        {
-          "id": 1,
-          "url": "https://i.pinimg.com/474x/c3/13/22/c313220ad65ecdf0a4fc6d4f84e771dd.jpg",
-          "alt": "Coca-Cola bottle"
-        },
-        {
-          "id": 2,
-          "url": "https://i.pinimg.com/564x/07/50/e7/0750e720c97c402ef2bcd3ab01421faf.jpg",
-          "alt": "Coca-Cola can"
-        }
-      ]
+      "description": "Coca-Cola is a multinational beverage corporation."
     },
     {
       "id": "2",
