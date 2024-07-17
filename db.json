@@ -1,0 +1,125 @@
+
+
+{"companies": [
+    {
+      "id": "1",
+      "name": "Coca-Cola",
+      "logo": "https://images.pexels.com/photos/9973155/pexels-photo-9973155.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Coca-Cola is a multinational beverage corporation.",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://i.pinimg.com/474x/c3/13/22/c313220ad65ecdf0a4fc6d4f84e771dd.jpg",
+          "alt": "Coca-Cola bottle"
+        },
+        {
+          "id": 2,
+          "url": "https://i.pinimg.com/564x/07/50/e7/0750e720c97c402ef2bcd3ab01421faf.jpg",
+          "alt": "Coca-Cola can"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "McDonald's",
+      "logo": "https://i.pinimg.com/474x/8d/aa/e0/8daae0006b2a9843e65b78a08901ca9d.jpg",
+      "description": "McDonald's is a fast-food restaurant chain.",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://i.pinimg.com/474x/91/df/49/91df49a7fa0d7d8ad913cf8bc4cab2c5.jpg",
+          "alt": "McDonald's burger"
+        },
+        {
+          "id": 2,
+          "url": "https://i.pinimg.com/474x/22/44/31/224431ea246a3ac9a7cab25c140d7b7c.jpg",
+          "alt": "McDonald's fries"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Nike",
+      "logo": "https://i.pinimg.com/474x/2e/58/56/2e5856407ab7d79649955e54ba4ce860.jpg",
+      "description": "Nike is a multinational corporation that designs and sells athletic footwear and apparel.",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://i.pinimg.com/474x/47/f4/35/47f435f2c4465438cdc4321deab5e37b.jpg",
+          "alt": "Nike shoe"
+        },
+        {
+          "id": 2,
+          "url": "https://i.pinimg.com/474x/2e/58/56/2e5856407ab7d79649955e54ba4ce860.jpg",
+          "alt": "Nike logo"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "KFC",
+      "logo": "https://i.pinimg.com/474x/25/46/fb/2546fbbd7a3a0a687d4eca48936508d7.jpg",
+      "description": "KFC is a fast-food restaurant chain that specializes in fried chicken."
+    },
+    {
+      "id": "5",
+      "name": "Starbucks",
+      "logo": "https://i.pinimg.com/736x/68/45/49/68454930bffd0154f4c80dd671604a18.jpg",
+      "description": "Starbucks is a multinational coffee company.",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://i.pinimg.com/736x/68/45/49/68454930bffd0154f4c80dd671604a18.jpg",
+          "alt": "Starbucks coffee cup"
+        },
+        {
+          "id": 2,
+          "url": "https://i.pinimg.com/474x/81/a4/66/81a466cac4f7586f11f980d3067f8dd3.jpg",
+          "alt": "Starbucks logo"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "apple",
+      "logo": "https://i.pinimg.com/474x/eb/4e/d3/eb4ed363026398b8910302349b98ae94.jpg",
+      "description": "multinational tech company",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://i.pinimg.com/474x/eb/4e/d3/eb4ed363026398b8910302349b98ae94.jpg",
+          "alt": "apple logo "
+        },
+        {
+          "id": 2,
+          "url": "https://i.pinimg.com/474x/81/a4/66/81a466cac4f7586f11f980d3067f8dd3.jpg",
+          "alt": "apple logo "
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "zara",
+      "logo": "https://i.pinimg.com/474x/04/7a/6f/047a6fd96a8175f37db8a57321421181.jpg",
+      "description": "clothing brand",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://i.pinimg.com/474x/04/7a/6f/047a6fd96a8175f37db8a57321421181.jpg",
+          "alt": "zara logo  "
+        },
+        {
+          "id": 2,
+          "url": "https://i.pinimg.com/474x/04/7a/6f/047a6fd96a8175f37db8a57321421181.jpg",
+          "alt": "zara logo  "
+        }
+      ]
+    },
+    {
+      "id": "fdf6",
+      "name": "pepsi ",
+      "logo": "https://i.pinimg.com/564x/a2/86/3b/a2863b2e74e2acefd436a1c4c4f7cd12.jpg",
+      "description": "a multinational beverage company"
+    }
+  ]
+}
