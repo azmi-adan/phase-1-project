@@ -4,7 +4,7 @@
       "id": "1",
       "name": "Coca-Cola",
       "logo": "https://images.pexels.com/photos/9973155/pexels-photo-9973155.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "description": "Coca-Cola is a multinational beverage corporation."
+      "description": "Coca-Cola is a multinational beverage corp"
     },
     {
       "id": "2",
@@ -101,12 +101,6 @@
           "alt": "zara logo  "
         }
       ]
-    },
-    {
-      "id": "fdf6",
-      "name": "pepsi ",
-      "logo": "https://i.pinimg.com/564x/a2/86/3b/a2863b2e74e2acefd436a1c4c4f7cd12.jpg",
-      "description": "a multinational beverage company"
     },
     {
       "id": "d734",
