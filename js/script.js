@@ -117,6 +117,8 @@ document.addEventListener('DOMContentLoaded', function() {
       fetchCompanies();
       addCompanyForm.reset();
     })
+    // the catch error logs out an error on the console if there's an error during the execution of 
+    // the fetch.
     .catch(error => console.error('Error adding company:', error));
   });
 
@@ -158,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
     .catch(error => console.error('Error deleting company:', error));
   }
 
-  // Initial fetch and display of companies
+  
   fetchCompanies();
 });
 

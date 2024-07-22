@@ -1,12 +1,6 @@
 {
   "companies": [
     {
-      "id": "1",
-      "name": "Coca-Cola",
-      "logo": "https://images.pexels.com/photos/9973155/pexels-photo-9973155.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "description": "Coca-Cola is a multinational beverage corp"
-    },
-    {
       "id": "2",
       "name": "McDonald's",
       "logo": "https://i.pinimg.com/474x/8d/aa/e0/8daae0006b2a9843e65b78a08901ca9d.jpg",
@@ -46,7 +40,7 @@
       "id": "4",
       "name": "KFC",
       "logo": "https://i.pinimg.com/474x/25/46/fb/2546fbbd7a3a0a687d4eca48936508d7.jpg",
-      "description": "KFC is a fast-food restaurant chain that specializes in fried chicken."
+      "description": "KFC is a fast-food restaurant chain"
     },
     {
       "id": "5",
@@ -63,24 +57,6 @@
           "id": 2,
           "url": "https://i.pinimg.com/474x/81/a4/66/81a466cac4f7586f11f980d3067f8dd3.jpg",
           "alt": "Starbucks logo"
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "name": "apple",
-      "logo": "https://i.pinimg.com/474x/eb/4e/d3/eb4ed363026398b8910302349b98ae94.jpg",
-      "description": "multinational tech company",
-      "images": [
-        {
-          "id": 1,
-          "url": "https://i.pinimg.com/474x/eb/4e/d3/eb4ed363026398b8910302349b98ae94.jpg",
-          "alt": "apple logo "
-        },
-        {
-          "id": 2,
-          "url": "https://i.pinimg.com/474x/81/a4/66/81a466cac4f7586f11f980d3067f8dd3.jpg",
-          "alt": "apple logo "
         }
       ]
     },
@@ -103,10 +79,28 @@
       ]
     },
     {
-      "id": "d734",
-      "name": "Nescafe ",
-      "logo": "https://i.pinimg.com/564x/75/39/62/75396286ed744af4a0bf6e2348649b83.jpg",
-      "description": " A coffee brand"
+      "id": "45e0",
+      "name": "pepsi",
+      "logo": "https://i.pinimg.com/474x/a2/86/3b/a2863b2e74e2acefd436a1c4c4f7cd12.jpg",
+      "description": "a multinational company"
+    },
+    {
+      "id": "999a",
+      "name": "apple",
+      "logo": "https://i.pinimg.com/474x/eb/4e/d3/eb4ed363026398b8910302349b98ae94.jpg",
+      "description": "a phone company\n"
+    },
+    {
+      "id": "eb3b",
+      "name": "meta",
+      "logo": "https://i.pinimg.com/736x/66/7e/cb/667ecb482846061d705d40e3d60c18e4.jpg",
+      "description": "technology company"
+    },
+    {
+      "id": "a845",
+      "name": "Coca-Cola",
+      "logo": "https://i.pinimg.com/474x/66/ac/9e/66ac9e42e239f00b48dcf475c3b6cd47.jpg",
+      "description": "a multinational beverage "
     }
   ]
 }
